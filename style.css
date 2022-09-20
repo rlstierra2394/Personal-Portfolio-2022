@@ -203,7 +203,7 @@ span{
     margin-right: 20px;
      
 }
-/*
+
 .center{
     text-align: center;
 }
@@ -571,7 +571,7 @@ color: #3e4455;
     }
 }
    
-*/
+
 @media(max-width: 360px){
     .home{
         grid-template-columns: 1fr;
