@@ -6,7 +6,7 @@ menu.onclick = () =>{
     navbar.classList.toggle('.active');
 };
 window.onscroll = () =>{
-    menu.classList.remove('bx bx-');
+    menu.classList.remove('bx-');
     menu.classList.remove('.active');
 };
 const sr = ScrollReveal({
